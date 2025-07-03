@@ -1,0 +1,1 @@
+AI Image Analyzer is a web-based tool that uses powerful AI models to extract insights from images in real-time. Built using JavaScript and integrated with Google's Gemini API, this project allows users to upload an image and instantly receive semantic analysis, object recognition, and contextual descriptions.
